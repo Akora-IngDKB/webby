@@ -9,8 +9,8 @@ This project is a starting point for a Flutter web application.
 Watch out for more tutorials on Flutter.
 
 Screenshots: <br />
-<img src="shots/whole_show.png"><br />
-<img src="shots/whole_show2.png"><br />
+<img src="shots/whole_show.PNG"><br />
+<img src="shots/whole_show2.PNG"><br />
 
 A few resources to get you started if this is your first Flutter project:
 
