@@ -1,10 +1,16 @@
 # webby
 
-A new Flutter project.
+A simple Flutter web app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter web application.
+
+Watch out for more tutorials on Flutter.
+
+Screenshots: <br />
+<img src="shots/whole_show.png"><br />
+<img src="shots/whole_show2.png"><br />
 
 A few resources to get you started if this is your first Flutter project:
 
