@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:webby/second.dart';
 
 main() => runApp(
       MaterialApp(
         title: 'Webby',
+        routes: {'/second': (context) => SecondPage()},
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.deepPurple,
@@ -66,7 +68,9 @@ class WebbyHome extends StatelessWidget {
                 shape: StadiumBorder(),
                 splashColor: Colors.orange,
                 color: Theme.of(context).primaryColor,
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.of(context).pushNamed('/second');
+                },
                 child: Text('LOG IN', style: TextStyle(color: Colors.white)),
               ),
             ],
